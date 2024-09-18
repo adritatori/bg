@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+obspy
+numpy
+pydantic
+python-multipart
+aiofiles
+requests
+python-multipart
